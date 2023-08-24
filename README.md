@@ -1,2 +1,2 @@
 # resume-template
-A resume template using html and css.
+A resume template using html and css to improve my basic front-end skills.
